@@ -16,5 +16,7 @@ public class Ex05 {
 		sucessor = numero + 1;
 		
 		System.out.println("O número: " + numero + "\ntem o antecessor: " + antecessor + "\nsucessor: " + sucessor);
+	
+		sc.close();
 	}
 }

@@ -17,5 +17,7 @@ public class Ex10 {
 		
 		area = (base * altura) / 2;
 		System.out.println("A área do triangulo é : " + area);
+	
+		sc.close();
 	}
 }

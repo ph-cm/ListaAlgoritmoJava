@@ -17,5 +17,8 @@ public class Ex08 {
 		reajuste = (saldo * 1/100) + saldo ;
 		
 		System.out.println("Seu reajuste é: " + reajuste);
+	
+		sc.close();
+		
 	}
 }

@@ -26,5 +26,7 @@ public class Ex07 {
 		System.out.println("Secante" + secante);
 		System.out.println("Cossecante: " + cossecante);
 		System.out.println("Cotangente: " + cotangente);
+	
+		sc.close();
 	}
 }

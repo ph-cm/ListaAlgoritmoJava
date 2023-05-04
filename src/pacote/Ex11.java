@@ -16,5 +16,7 @@ public class Ex11 {
 		total = (conta * 10 /100) + conta;
 		System.out.println("Total a ser pago: " + total + "\n(contando os 10% da gorjeta");
 		
+	
+		sc.close();
 	}
 }

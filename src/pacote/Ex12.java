@@ -19,5 +19,6 @@ public class Ex12 {
 	totalMinutos = (hora * 60) + minutos;
 	System.out.println("Os minutos que passaram do dia são: " + totalMinutos);
 	
+	sc.close();
 	}
 }

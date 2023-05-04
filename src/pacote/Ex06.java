@@ -17,5 +17,7 @@ public class Ex06 {
 		
 		soma = n1 + n2;
 		System.out.println("A soma de " + n1 + " e " + n2 + " é " + soma);
+	
+		sc.close();
 	}
 }

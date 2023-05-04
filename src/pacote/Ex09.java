@@ -25,5 +25,7 @@ public class Ex09 {
 		System.out.println("Perimetro: " + perimetro);
 		System.out.println("Diagonal: " + diagonal);
 
+	
+		sc.close();
 	}
 }
