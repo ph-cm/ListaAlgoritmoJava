@@ -16,7 +16,7 @@ public class Ex01 {
 		
 		System.out.println("A dezena da sua casa é: " + dezenaCasa);
 		
-
+		sc.close();
 	}
-
+	
 }
