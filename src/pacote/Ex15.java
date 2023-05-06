@@ -22,6 +22,6 @@ public class Ex15 {
 		
 		System.out.println("Area do trapézio é: " + areaTotal);
 		
-		
+		sc.close();
 	}
 }

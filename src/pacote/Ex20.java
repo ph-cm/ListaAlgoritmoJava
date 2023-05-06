@@ -18,5 +18,6 @@ public class Ex20 {
 		else {
 			System.out.println("Esse número não é divisível por 3 e por 7");
 		}
+		sc.close();
 	}
 }

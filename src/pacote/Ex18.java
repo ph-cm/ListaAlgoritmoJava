@@ -19,5 +19,7 @@ public class Ex18 {
 		else {
 			System.out.println("O número não é multiplo de 3");
 		}
+		
+		sc.close();
 	}
 }

@@ -19,5 +19,6 @@ public class Ex19 {
 		else {
 			System.out.println("Esse número nao é divisível por 5");
 		}
+	sc.close();
 	}
 }
