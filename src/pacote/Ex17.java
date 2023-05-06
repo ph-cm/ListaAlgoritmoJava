@@ -17,6 +17,6 @@ public class Ex17 {
 		}else {
 			System.out.println("Este número é impar");
 		}
-
+		sc.close();
 	}
 }

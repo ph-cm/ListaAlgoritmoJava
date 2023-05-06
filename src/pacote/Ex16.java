@@ -23,5 +23,6 @@ public class Ex16 {
 		}else {
 			System.out.println("Soma menor que 10 , soma igual a " + soma);
 		}
+		sc.close();
 	}
 }
