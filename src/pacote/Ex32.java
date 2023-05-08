@@ -9,6 +9,6 @@ public class Ex32 {
 			soma += i;
 		}
 		System.out.println("Soma dos termos: " + soma);
-		
 	}
+	
 }
