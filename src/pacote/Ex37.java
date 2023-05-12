@@ -18,6 +18,8 @@ public class Ex37 {
 		mdc = calcularMdc( num1 , num2);
 		
 		System.out.println("O MDC de " + num1 + " com " + num2 + " é " + mdc);
+		
+		sc.close();
 	}
 	public static int calcularMdc(int num1 , int num2) {
 		while(num2 != 0) {
@@ -27,4 +29,5 @@ public class Ex37 {
 		}
 		return num1;
 	}
+	
 }
