@@ -14,7 +14,7 @@ public class Ex36 {
 		
 		boolean primo = true;
 		
-		if(numero < 1 ) {
+		if(numero <= 1 ) {
 			primo = false;
 		}
 		else {
