@@ -14,7 +14,7 @@ public class Ex46 {
 		
 		graus = radianos * (180 / Math.PI);
 		
-		System.out.print("Em graus é:" + graus);
+		System.out.println("Em graus é:" + graus);
 		sc.close();
 	}
 }
